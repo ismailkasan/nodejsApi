@@ -16,6 +16,6 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.13.17",
     "save": "^2.4.0",
-    "swagger-ui-express": "^4.1.4"
+    "swagger-ui-express": "^4.6.2"
   }
 }
